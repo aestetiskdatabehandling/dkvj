@@ -3,14 +3,19 @@
 A list of people who are often mentioned, or should be mentioned, during lessons at Digital Art and VJing at Engelsholm Højskole.
 
 
-## 1024 Architecture 
+## [1024 Architecture](https://www.1024architecture.net) (FR)
+
+Studio founded by Pierre Schneider and François Wunschel, producing light installations and performances.
 
 ---
 
-## Ada Ada Ada
+## [Ada Ada Ada](https://ada-ada-ada.art) (DK)
+
+![Ada Ada Ada](https://ada-ada-ada.art/_ipx/w_1000&f_webp&grayscale_true/images/in-transitu-live/in-transitu-live-2.jpg)
+
+Artist and queer activist working with visual mediums and data.
 
 ---
-
 
 ## [BPMC](https://bpmcglitch.com) (US)
 Maker of hardware for glitched video.
@@ -24,7 +29,7 @@ Educator at NYU and widely renowned for his work on teaching programming to the 
 ---
 
 ## Karl Klomp (NL)
-![Karl Klomp](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.spatialmedialabs.org%2Fmedia%2Fpages%2Fartists%2Fkarl-klomp%2F689503f679-1744726544%2Fkarl-klomp0721.jpg&f=1&nofb=1&ipt=b4b4379c1c5686be72d3a8925e69ef8b3089712e774e5c724375882a09ed3382)
+![Karl Klomp](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.spatialmedialabs.org%2Fmedia%2Fpages%2Fartists%2Fkarl-klomp%2F689503f679-1744726544%2Fkarl-klomp0721.jpg&f=1&nofb=1&ipt=b4b4379c1c5686be72d3a8925e69ef8b3089712e774e5c724375882a09ed3382)<br>
 
 Best known for his hugely popular Dirty Video Mixer design.
 
@@ -39,17 +44,18 @@ Light installations and stage design, notably the Gloria Stage at Roskilde Festi
 
 ## TeamLab (JP)
 
+
 ---
 
 ## NONOTAK (JP/FR)
 Noemi Schipfer and Takami Nakamoto.
 
-Audiovisual performances and installations.
+Visual artist/musican duo doing audiovisual performances and installations while looking very cool.
 
 ---
 
 ## [Cyriak](https://cyriak.co.uk) (UK)
-![Cyriak Harris](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fcyriak%2Fimages%2F2%2F29%2FCyriak_in_2010_(cropped).jpg%2Frevision%2Flatest%2Fscale-to-width-down%2F350%3Fcb%3D20240607230820&f=1&nofb=1&ipt=c87124b90ef5f5be4245008e14e288de2032b7f35dea6660365ca1c1392b672b)
+![Cyriak Harris](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fcyriak%2Fimages%2F2%2F29%2FCyriak_in_2010_(cropped).jpg%2Frevision%2Flatest%2Fscale-to-width-down%2F350%3Fcb%3D20240607230820&f=1&nofb=1&ipt=c87124b90ef5f5be4245008e14e288de2032b7f35dea6660365ca1c1392b672b)<br>
 
 Cyriak Harris is an animator known for his surreal manipulations of video material through After Effects. His signature technique is  rotoscoping and reanimating elements of real video, often into body parts of creatures walking (usually spider-like beings).
 Has directed various music videos, notably [Bonobo - Cirrus](https://www.youtube.com/watch?v=WF34N4gJAKE).
@@ -58,10 +64,13 @@ Has directed various music videos, notably [Bonobo - Cirrus](https://www.youtube
 ---
 
 ## Dark Matters (DK)
+Danish design studio founded by Rune Brink Hansen and Lasse Andersen. A design studio focused on spatial design and exhibitions. Former works include live visuals and music videos, notably for [Kenton Slash Demon](https://www.youtube.com/watch?v=eFSwMAfc9PI).
 
 ---
 
-## Gijs Gieskes (NL)
+## [Gijs Gieskes](https://gieskes.nl) (NL)
+![Gijs Gieskes](https://perifeer.org/wp-content/uploads/gijs3.jpg)<br>
+Artist and maker of audiovisual hardware, notably the [3TrinsRGB+C](https://gieskes.nl/instruments/?file=3TrinsRGB1). Also a webdesigner with no respect for legibility of his site.
 
 ---
 
@@ -100,9 +109,8 @@ Visual artist best known for her work with WEBGL based visuals, in particular he
 
 ---
 
-
 ## Steina Vasulka (ICE)
-![Steina Vasulka](https://listasafn-api.prod.thon.is/uploads/01_2db6b0cef4.JPG?w=1920&q=75&f=webp)
+![Steina Vasulka](https://listasafn-api.prod.thon.is/uploads/01_2db6b0cef4.JPG?w=1920&q=75&f=webp)<br>
 Steinunn Briem Bjarnadottir was a pioneering video artist through her  installation works and audiovisual performances. Married to fellow video artist Woody Vasulka.
 Her works are predominantly exhibited by the National Museum of Iceland, Reykjavik.
 A documentary on the works of the Vasulkas called "The Vasulka Effect" is available for rental on [Vimeo](https://vimeo.com/ondemand/thevasulkaeffect).

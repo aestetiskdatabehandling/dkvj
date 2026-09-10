@@ -18,7 +18,7 @@ Maker of hardware for glitched video.
 ---
 
 ## Daniel Schiffmann
-![Daniel Schiffmann](https://thecodingtrain.com/static/cfbe6516ecdc75b118d31207dc257f48/6130f/dan_and_gloria.webp)
+![Daniel Schiffmann](https://thecodingtrain.com/static/cfbe6516ecdc75b118d31207dc257f48/6130f/dan_and_gloria.webp)<br>
 Educator at NYU and widely renowned for his work on teaching programming to the general public through his project [The Coding Train](https://thecodingtrain.com)
 
 ---

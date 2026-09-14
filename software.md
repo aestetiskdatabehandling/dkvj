@@ -43,12 +43,19 @@ VJing software by the team behind MadMapper. Not that commonly used.
 
 ---
 
-## [Synesthesia](https://synesthesia.live/#download) // Gravity Current
+### [Synesthesia](https://synesthesia.live/#download) // Gravity Current
 
 *paid software, video synthesizer, MacOS/Windows*
 
 Instrument for making generative visuals with inputs from video sources. 
 A capable and fun instrument, but for its price you can get more advanced tools.
+
+---
+
+### [TouchViz](https://hexler.net/touchviz) *// Hexler Heavy Industries*
+*paid software, iPad*
+
+VJing software for the iPad. NDI output, or direct output using the right dongles.
 
 ---
 
@@ -89,7 +96,22 @@ Full video editing suite, more advanced and stable than other open source compet
 
 ---
 
-# Video utilities
+## Plugins
+
+### [Stoatworks Labs](https://stoatworks-labs.com/software/) // Stoatworks
+*FFGL, MacOS, Windows*
+
+Free plugins, especially FFGL effects and generators, for Resolume.
+Install: Download and unpack the zip archive for your platform. Put the file (.dll or .bundle) in ```/Documents/Resolume Arena/Extra Effects``` and reopen Arena.
+
+**Recommendations:**
+[Luma Keyer](https://stoatworks-labs.com/software/resolume-luma-keyer/)<br>
+
+
+
+---
+
+## Video utilities
 
 
 ### [Alley](https://resolume.com/download) *// Resolume*
@@ -204,7 +226,7 @@ Node-based programming environment. Works in the free version, restricted to 1 C
 
 ---
 
-### Wire *by Resolume*
+### Wire *// by Resolume*
 *paid software, MacOS/Windows*
 
 Wire is the engine behind Arena/Avenues effects and generative sources. It is a full node-based programming environment that can run stand-alone or make and edit effects and generators for use in Arena/Avenue.
@@ -229,7 +251,7 @@ Programming framework based on Java. Easy to learn, active development. Support 
 
 ---
 
-## [p5.js](https://processing.org) // Processing Foundation
+## [p5.js](https://processing.org) *// Processing Foundation*
 *free software, web*
 
 Programming framework based on Java. Easy to learn, active development. Editor runs directly in the browser.
@@ -238,10 +260,22 @@ Programming framework based on Java. Easy to learn, active development. Editor r
 
 ---
 
-## [Hydra](https://hydra.ojack.xyz) // Olivia Jack
+## [Hydra](https://hydra.ojack.xyz) *// Olivia Jack*
 *free software, web, livecoding*
 
 Text-based video synth in the browser.
+
+---
+
+## 3D
+
+### [SketchUp Make 2017](https://archive.org/details/sketchup-make-2017) *// Last/Google/Trimble*
+
+*3D modelling*
+
+SketchUp is a 3D modelling tool made for simple and easy use for makers. The software allows for quickly sketching and measuring rooms and stage elements.
+
+SketchUp was made by a software company called Last in 1999, then purchased by Google in 2006, then sold of to Trimble in 2012. Trimble then continued the software as a web-based app. The last functioning offline version is SketchUp Make 2017. While the core functions work, it can no longer access the popular built-in online model database.
 
 ---
 
@@ -254,7 +288,7 @@ Made for controlling other software, Chataigne can be used as a central command 
 
 ---
 
-### [Protokol](https://hexler.net/protokol)
+### [Protokol](https://hexler.net/protokol) *// Hexler Heavy Industries*
 
 *free software, Linux/MacOS/Windows, signal testing*
 
@@ -262,17 +296,10 @@ App for testing for incoming MIDI, OSC, various game controllers.
 
 ---
 
-### [TouchOSC](https://hexler.net/touchosc)
+### [TouchOSC](https://hexler.net/touchosc) *// Hexler Heavy Industries*
 *paid software, Linux/MacOS/iPad/Android/SteamOS/Windows*
 
 Customizable touch interface for controlling other software through OSC.
-
----
-
-### [TouchViz](https://hexler.net/touchviz)
-*paid software, iPad*
-
-VJing software for the iPad. NDI output, or direct output using the right dongles.
 
 ---
 

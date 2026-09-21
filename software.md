@@ -2,6 +2,23 @@
 
 A list of softwares used in our workshop + recommendations and tips on other software relevant for digital art.
 
+## 2D Animation
+
+### [Friction](https://friction.graphics) *by Ole-André Rodlie*
+*free software, animation, motion graphics*
+
+2D animation software.Has some bugs, but works just fine for simple vector-based animations.
+
+---
+
+### [Cavalry](https://cavalry.app) *by Canva*
+
+*free software, animation, motion graphics*
+
+2D animation software, a contender for Adobe's After Effects. **Requires a Canva account.**
+
+---
+
 ## Video playback
 
 ### [Avenue](https://resolume.com/download) *// Resolume*
@@ -105,7 +122,7 @@ Free plugins, especially FFGL effects and generators, for Resolume.
 Install: Download and unpack the zip archive for your platform. Put the file (.dll or .bundle) in ```/Documents/Resolume Arena/Extra Effects``` and reopen Arena.
 
 **Recommendations:**
-[Luma Keyer](https://stoatworks-labs.com/software/resolume-luma-keyer/)<br>
+[Luma Keyer](https://stoatworks-labs.com/software/resolume-luma-keyer/) for Resolume<br>
 
 
 
@@ -170,6 +187,13 @@ Tools for NDI video sources. Can be used to test which NDI signals are present o
 Tool for converting video, downloading video from various online sources, simple editing. Based on FFmpeg, but with a friendly user interface.
 
 >**DKVJ Weapon of Choice** for conversions.
+
+---
+
+### [Cobalt.tools](https://cobalt.tools) *by Cobalt*
+*web, open source*
+
+Online tool for downloading video from a variety of sources. YouTube is not included unfortunately.
 
 ---
 
@@ -268,6 +292,16 @@ Text-based video synth in the browser.
 ---
 
 ## 3D
+
+### [Blender3D](https://blender.org) *by The Blender Foundation*
+
+*open source software, Linux/MacOS/Windows, 3D modelling, 3D animation, compositing*
+
+3D modelling and animation software, an increasingly ambitious contender  to paid software like Maya and Cinema4D. A steep learning curve for newcomers, as with anything 3D, but with a very large and friendly community.
+
+> **DKVJ Weapon of Choice** for 3D animation
+
+--- 
 
 ### [SketchUp Make 2017](https://archive.org/details/sketchup-make-2017) *// Last/Google/Trimble*
 

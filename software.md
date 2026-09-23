@@ -4,7 +4,7 @@ A list of softwares used in our workshop + recommendations and tips on other sof
 
 ## 2D Animation
 
-### [Friction](https://friction.graphics) *by Ole-André Rodlie*
+### [Friction](https://friction.graphics) *Ole-André Rodlie*
 *free software, animation, motion graphics*
 
 2D animation software.Has some bugs, but works just fine for simple vector-based animations.
@@ -34,6 +34,13 @@ Arena stripped of features like layer groups and mapping. A capable entry-level 
 The gold standard for VJing, due to it's active development, crossplatform status and large community.
 
 >**DKVJ Weapon of Choice** for VJing. In the workshop we currently use [Resolume Arena version 7.22.9](https://resolume.com/download/file?file=Resolume_Arena_7_22_9_rev_47596_No_Footage_Installer.exe)
+
+---
+
+### [HeavyM](https://heavym.net/) // HeavyM
+*paid software, MacOS/Windows, projection mapping*
+
+Selftitled "easiest" projection mapping software. Easy to use, quite capable, but lacks some of the advanced features present in MadMapper.
 
 ---
 
@@ -322,6 +329,16 @@ Made for controlling other software, Chataigne can be used as a central command 
 
 ---
 
+### [K-Lite Codec Pack](https://www.codecguide.com/download_kl.htm)
+
+*codecs, Windows*
+
+If you're on Windows, install this codec pack in order play a wide variety of codecs natively.
+
+**Install the Basic pack for codecs only.**
+
+---
+
 ### [Protokol](https://hexler.net/protokol) *// Hexler Heavy Industries*
 
 *free software, Linux/MacOS/Windows, signal testing*
@@ -330,19 +347,16 @@ App for testing for incoming MIDI, OSC, various game controllers.
 
 ---
 
+###  [TeraCopy](https://codesector.com/teracopy) *// Code Sector*
+*free software, MacOS/Windows*
+
+Replace the default file transfer utility with a quicker and more advanced tool.
+
+---
+
 ### [TouchOSC](https://hexler.net/touchosc) *// Hexler Heavy Industries*
 *paid software, Linux/MacOS/iPad/Android/SteamOS/Windows*
 
 Customizable touch interface for controlling other software through OSC.
-
----
-
-### [K-Lite Codec Pack](https://www.codecguide.com/download_kl.htm)
-
-*codecs, Windows*
-
-If you're on Windows, install this codec pack in order play a wide variety of codecs natively.
-
-**Install the Basic pack for codecs only.**
 
 ---
